@@ -16,3 +16,7 @@ $navigation->render();
 ~~~~
 
 See example.php for a full example.
+
+Credits
+-------
+Original code taken from [Stack Overflow](http://stackoverflow.com/questions/4196157/create-array-tree-from-array-list)
